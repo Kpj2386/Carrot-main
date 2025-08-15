@@ -1,0 +1,37 @@
+[
+  {
+    "phoneNumber": "999999990",
+    "userId": 1,
+    "name": "John Doe",
+    "email": "john.doe@gmail.com",
+    "address": "123 Main St, Anytown, USA"
+  },
+  {
+    "phoneNumber": "9999999991",
+    "userId": 2,
+    "name": "Alice Smith",
+    "email": "alice.smith@gmail.com",
+    "address": "456 High St, London, UK"
+  },
+  {
+    "phoneNumber": "9999999992",
+    "userId": 3,
+    "name": "Priya Patel",
+    "email": "priya.patel@gmail.com",
+    "address": "789 Gandhi Rd, Mumbai, India"
+  },
+  {
+    "phoneNumber": "9999999993",
+    "userId": 4,
+    "name": "David Lee",
+    "email": "david.lee@gmail.com",
+    "address": "101 George St, Sydney, Australia"
+  },
+  {
+    "phoneNumber": "9999999994",
+    "userId": 5,
+    "name": "Sakura Tanaka",
+    "email": "sakura.tanaka@gmail.com",
+    "address": "112 Shibuya, Tokyo, Japan"
+  }
+]
